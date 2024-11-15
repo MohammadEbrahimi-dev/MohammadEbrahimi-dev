@@ -1,6 +1,6 @@
 # Welcome to My GitHub
 
-![Header Image](https://via.placeholder.com/1200x300/000000/FFFFFF?text=Welcome+to+Mohammad+Ebrahimi%27s+GitHub)
+![Header Image](https://img.freepik.com/free-photo/man-using-laptop-night-top-view-web-banner-with-copy-space_169016-53607.jpg?t=st=1731706702~exp=1731710302~hmac=78434684444c66260a000927521c83f0509e930cb8c9fae44ec2b0e4be6e3d64&w=826)
 
 ## 🚀 About Me
 
